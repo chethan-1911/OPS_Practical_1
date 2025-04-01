@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-	printf("I am Spiderman!")
+	printf("I am Spiderman!");
 }
